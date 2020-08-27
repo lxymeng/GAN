@@ -5,6 +5,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 from matplotlib import animation
 import seaborn as sns
+import os
 
 sns.set(color_codes=True)  
 
